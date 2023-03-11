@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Prac2</string>
+    <string name="register_button">Это легко!</string>
+    <string name="register">Регистрируйся сейчас!</string>
+    <string name="register_info">Придумай свой уникальный ник уже сейчас!</string>
+    <string name="gtk_text">Узнавай больше о хакатонах!</string>
+    <string name="gtk_btn">Перейти к ленте хакатонов</string>
+    <string name="gtk_et">Есть ли у вас опыт участия в хакатонах?</string>
+    <string name="part_text">Участвуй в хакатонах!</string>
+    <string name="part_btn">Принять вызов</string>
+    <string name="part_et">Готовился к соревнованиям?</string>
+    <string name="alldone_text">Вот то, что вы рассказали о себе!</string>
+    <string name="nickname_s">Ваш никнейм</string>
+    <string name="exp_s">Ваш опыт</string>
+    <string name="ready_s">Ваша готовность</string>
+    <string name="gtk_change">Ха-ха текст изменился</string>
+</resources>
