@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FirstFragment"
+    android:textAlignment="center"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:id="@+id/firstfragment">
+
+    <TextView
+        android:id="@+id/text2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="50dp"
+        android:text="Переход к хакатонам"
+        android:textAlignment="center"
+        android:textSize="36dp"></TextView>
+
+    <Button
+        android:id="@+id/butt_hacks"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="Новые хакатоны"></Button>
+
+    <Button
+        android:id="@+id/butt_news"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="Новости хакатонов"></Button>
+
+    <Button
+        android:id="@+id/butt_notif"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="Важный увед"></Button>
+
+
+</LinearLayout>
